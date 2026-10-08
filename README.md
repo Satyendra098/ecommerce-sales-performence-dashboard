@@ -5,7 +5,7 @@
 An interactive E-Commerce Sales Performance Dashboard built using Microsoft Excel to analyze sales, profit, orders, products, categories, and regional performance.
 
 ## 📊 Dashboard Demo 
-[Watch Dashboard Demo](./Screen(1)(1).mp4)
+[Watch Dashboard Demo](./Screen%20%281%29%20%281%29.mp4)
 
 ## 🛠️ Tools & Technologies
 

@@ -7,6 +7,8 @@ An interactive E-Commerce Sales Performance Dashboard built using Microsoft Exce
 ## 📊 Dashboard Preview
 ![E-Commerce Sales Dashboard](Screenshot_20261007_132208.jpg)
 
+![E-Commerce Sales Dashboard](Screenshot_20261007_132217.jpg)
+
 ## 🛠️ Tools & Technologies
 
 - Microsoft Excel
